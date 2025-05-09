@@ -88,7 +88,7 @@ Manual mobile app storage inspection is tedious and error-prone:
 
 **Supported Files**:
 - Databases: `.db`, `.sqlite`, `.sqlite3`
-- Text: `.xml`, `.json`, `.txt`, etc.
+- Text: `.xml`, `.json`, `.txt`, `.plist`, etc.
 - Images: `.jpg`, `.png`, `.gif`, etc.
 - Binaries: Any file with hex view.
 
