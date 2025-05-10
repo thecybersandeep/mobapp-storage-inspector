@@ -107,8 +107,7 @@ Love the tool? Help make it better!
 - **Submit PRs**: Fork, code, and send pull requests.
 Open an [Issue](https://github.com/thecybersandeep/mobapp-storage-inspector/issues).
 
-Thought for 4 seconds
+For thoughts on tool uses, see below.
 
-
-For writeup on tool uses see here: [Extract & Analyze Mobile App Storage in Seconds](https://thecybersandeep.medium.com/extract-analyze-mobile-app-storage-in-seconds-8e0585c0ff57)
+[Extract & Analyze Mobile App Storage in Seconds](https://thecybersandeep.medium.com/extract-analyze-mobile-app-storage-in-seconds-8e0585c0ff57)
 
