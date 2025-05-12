@@ -1,8 +1,10 @@
 # MobApp-Storage Inspector
 
+[![Total Downloads](https://img.shields.io/github/downloads/thecybersandeep/mobapp-storage-inspector/total)](https://github.com/thecybersandeep/mobapp-storage-inspector)
+
 **Make mobile app storage analysis effortless.**
 
-An all-in-one, cross-platform application that enables users to inspect mobile application storage files, databases, and more. It runs on Windows, macOS, and Linux. Ideal for developers, security testers, and forensics experts on Windows, macOS, and Linux.
+An all-in-one, cross-platform application that enables users to inspect mobile application storage files, databases, and more. Useful for developers, security testers, and forensics professionals.
 
 <img width="1312" alt="image" src="https://github.com/user-attachments/assets/ee6c68ef-0602-45be-90fe-2e2e4dd16d5f" />
 
