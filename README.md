@@ -29,7 +29,7 @@ Manual mobile app storage inspection is tedious and error-prone:
 
 **MobApp-Storage Inspector** solves these:
 - **Auto Strings**: Instantly extracts readable text from binaries.
-- **No-SQL Database Access**: Browse SQLite tables without writing queries.
+- **Database Access**: Browse SQLite tables without writing queries.
 - **Fast Search**: Find files or content using plain English, no regex needed.
 - **Intuitive UI**: Replaces command-line complexity with a graphical interface.
 
@@ -44,8 +44,6 @@ Manual mobile app storage inspection is tedious and error-prone:
 | Binary Analysis | Hex view with auto-extracted strings. |
 | Fast Search | Quickly locate files or content. |
 | Flexible Layout | Multiple column and text-based data views. |
-| Custom Window Titles | Personalized titles for each window. |
-| Preferences Window | Ergonomic settings with minimal effort. |
 | Custom Filters | User-defined data post-processing. |
 | Light/Dark Modes | Comfortable viewing for long sessions. |
 | Cross-Platform | Compatible with Windows, macOS, Linux. |
@@ -54,7 +52,7 @@ Manual mobile app storage inspection is tedious and error-prone:
 ## Installation
 
 ### Prerequisites
-- Java 17+ (verify with `java -version`). Install from [Adoptium](https://adoptium.net/) if needed.
+- Java 17+ (verify with `java -version`).
 
 ### Quick Start
 1. Download the latest JAR from [Releases](https://github.com/thecybersandeep/mobapp-storage-inspector/releases).
