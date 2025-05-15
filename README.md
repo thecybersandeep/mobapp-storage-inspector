@@ -25,7 +25,6 @@ Manual mobile app storage inspection is tedious and error-prone:
 - **Grep Searches**: Crafting regex for `grep` is slow and yields overwhelming results.
 - **Objection Limits**: Excels in runtime analysis but lacks robust static file inspection.
 - **Excel Struggles**: Poor handling of large datasets, requiring complex schemas and filters.
-- **Relational Databases**: Demand upfront schema definitions, slowing analysis.
 
 **MobApp-Storage Inspector** solves these:
 - **Auto Strings**: Instantly extracts readable text from binaries.
